@@ -28,6 +28,9 @@ Save the synthetic MRI volume and tumor mask in the output directory.
 
 Outputs:
 Each synthetic HDF5 file will contain the following (in the synthetic tumor folder)
+
 image: Multi-modal synthetic MRI
+
 mask: Binary tumor mask (1 = tumor, 0 = background)
+
 These files can be used for training tumor segmentation models.
