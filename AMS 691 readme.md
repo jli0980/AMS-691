@@ -13,7 +13,7 @@ Install dependencies with:
 pip install numpy h5py opencv-python tqdm
 
 Dataset:
-Download the BraTS 2020 dataset from Kaggle and extract the HDF5 .h5 files to a local folder.
+Download the BraTS 2020 dataset from Kaggle (https://www.kaggle.com/datasets/awsaf49/brats2020-training-data?resource=download) and extract the HDF5 .h5 files to a local folder.
 
 Running the Code:
 Open the ipynb file in vs code or colab.
