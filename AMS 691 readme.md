@@ -1,4 +1,5 @@
 README: How to Run the Code
+
 This project simulates synthetic brain tumors in multi-modal MRI data using a 2D cellular automata model based on the Pixel2Cancer framework.
 
 Requirements:
