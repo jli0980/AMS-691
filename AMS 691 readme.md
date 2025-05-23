@@ -17,8 +17,8 @@ Download the BraTS 2020 dataset from Kaggle and extract the HDF5 .h5 files to a 
 
 Running the Code:
 Open the ipynb file in vs code or colab.
-Set the correct paths in the variables:
-Run the cells in chronological order
+Set the correct paths for your downloaded data and ipynb file.
+Run the cells in chronological order.
 
 Load each HDF5 MRI volume.
 Quantify tissue types in each slice.
